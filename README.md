@@ -23,9 +23,6 @@
 * The analog clock will display the current time, with hands updating dynamically.
 * Below the analog clock, a digital clock box shows the current time in 24-hour format.
 
-## Output
-![image](https://github.com/user-attachments/assets/c0bcb480-6db2-44f6-aeab-d7e718572096)
-
 ## Customization
 * you can change it and customize it as you like in `clock.css` file.
 
