@@ -86,17 +86,20 @@ span {
 .h3 {
   top: 140px;
   right: 30px;
+  color: #ffffff;
 }
 
 .h6 {
   bottom: 30px;
   left: 50%;
   margin-left: -5px;
+  color: #ffffff;
 }
 
 .h9 {
   left: 32px;
-  top: 140px;
+  top: 140px;  
+  color: #ffffff;
 }
 
 .diallines {
@@ -161,4 +164,3 @@ span {
   font-size: 24px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
-
